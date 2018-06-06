@@ -1,1 +1,1 @@
-{name:ubuntu}
+print('{name:ubuntu}')
